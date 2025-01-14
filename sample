@@ -1,1 +1,5 @@
-This is public data
+git init
+git status
+git remote add organ <link>
+git branch -M main
+git push -u origin main
